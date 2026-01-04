@@ -1,10 +1,10 @@
-# [Project] B2B Jewel-Mall : 귀금속 수출 주문 관리 시스템
+# [Project] B2B Jewel-Mall : B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 시스템
 
 ## 1. 프로젝트 개요
 
 -   **목적**: 귀금속 수출 산업의 디지털 전환(DX)을 위한 주문 및 인보이스 관리 시스템 구축.
     
--   **배경**:  **AS-IS**:현업의 수동 엑셀 인보이스 작업  **TO-BE**:자동화, API 기반의 체계적인 장바구니 ,데이터 관리 프로세스 수립.
+-   **배경**:  **AS-IS**:현업의 수동 고객 오더 메신저로 받기 및 엑셀 인보이스 작업  **TO-BE**: 자동화, API 기반의 체계적인 장바구니 , 고객정보 데이터 관리 프로세스 수립.
     
 -   **기대효과**: 실제 상용 서비스 수준의 ERD/API 설계 및 배포 경험 확보.
     
@@ -40,13 +40,13 @@
 
 -   **Backend**: Java/Kotlin + SpringBoot (현업 표준 준수)
     
--   **Frontend**: JavaScript + React (컴포넌트 기반 UI)
+-   **Frontend**: JavaScript React (컴포넌트 기반 UI)
     
--   **Database**: MySQL PostgreSQL (ERD 기반 설계)
+-   **Database**: MySQL PostgreSQL 중 택 1 (ERD 기반 설계)
     
 -   **Infrastructure**: AWS (Free-tier), Docker (컨테이너화)
     
--   **Tools**: Figma, GitHub, Slack, Trello
+-   **Collaborator Tools**: Figma, GitHub, Slack, Trello
     
 
 ----------
