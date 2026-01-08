@@ -132,4 +132,4 @@ FE QA 및 버그 수정, 프로젝트 문서화 (README/Claude.md)
     
 -   **Communication**: 회의 및 정보공유 Discord 모든 의사결정 Slack에 기록하고, 작업 진행도는 Trello 칸반 보드로 시각화.
     
--   **Code Quality**: 현직자 멘토의 기술 자문 거쳐-   **Code Quality** : code convention 
+-   **Code Quality**: 현직자 멘토의 기술 자문 거쳐 code convention + 클린코드
