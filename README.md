@@ -1,4 +1,4 @@
-# 💎B2B Jewel-Mall : 
+# 💎B2B Real-Jewel-Trade (RJT)
 # B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 web service
 
 ## 1. 프로젝트 개요
@@ -85,7 +85,7 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
 **현직 멘토**
 
 **Advisor**
-- Autoever 현직자 2
+- Autoever 현직자 1
 - samjung kpmg 1
 
 기술 스택 의사결정 지원 및 인프라 구축 가이드
@@ -134,3 +134,10 @@ FE QA 및 버그 수정, 프로젝트 문서화 (README/Claude.md)
 -   **Communication**: 회의 및 정보공유 Discord 모든 의사결정 Slack에 기록하고, 작업 진행도는 Trello 칸반 보드로 시각화.
     
 -   **Code Quality**: 현직자 멘토의 기술 자문 거쳐 code convention + 클린코드
+
+- “우리가 판을 지배한다”
+
+- “우리가 이 게임의 룰이다”
+
+- “현금/보석/권력 다 쥐고 있다”
+
